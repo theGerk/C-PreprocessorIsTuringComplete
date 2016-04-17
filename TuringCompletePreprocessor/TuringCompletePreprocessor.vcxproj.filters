@@ -14,4 +14,23 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="addOneTo4BitNumber.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="printNumber.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="myLoop.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="loopBody.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CountUpTo10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

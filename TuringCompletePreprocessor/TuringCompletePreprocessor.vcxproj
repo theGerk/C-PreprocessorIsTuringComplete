@@ -110,6 +110,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="addOneTo4BitNumber.h" />
+    <ClInclude Include="loopBody.h" />
+    <ClInclude Include="myLoop.h" />
+    <ClInclude Include="printNumber.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CountUpTo10.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
